@@ -3,7 +3,7 @@
 This Dockerfile creates an OpenSUSE Leap 15.2 container with KIWI NG requirements. Run the following commands to build from a cloned copy of the uyuni-translation-image kiwi configuration repo @: https://github.com/uyuni-project/uyuni-translation-image
 
 
-Build the container: 
+Build the image: 
 
 ```docker build -t translation-image .```
 
